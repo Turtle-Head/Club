@@ -1,0 +1,47 @@
+Timeline tracing shows loading times and order
+
+Building the DOM
+== HTML response > Tokens > Nodes > DOM tree
+!= Each token like startTag and endTag is converted into a DOM node
+== Nodes contain all relevant information about the HTML element
+== Nodes are connected into a DOM tree based on token hierarchy
+== DOM Construction is incremental
+
+CSSOM
+== CSS is render blocking (pages will not load until all CSS is interpreted to
+ensure pages are displayed properly)
+== CSS cascades down
+
+Timeline Tracing
+== You can save and load timeline traces
+http://developer.chrome.com/devtools/docs/timeline#saving-and-loading-recordings
+
+The Render Tree
+== Only contains visible content
+== Starts at the Bottom of the DOM Tree
+== Captures both the content and the styles
+
+Always set:
+<meta name="viewport" content="width=device-width">
+-- removing whitespace by minifying css etc can have a positive impact on page
+load times as it reduces bytes loaded
+
+CSS can be split if some styles are not needed to render the page correctly
+for example:
+-in a style-print.css file
+@media print {
+    body { font-size: 12px }
+}
+-in the html links
+<link rel="stylesheet" href="style-print.css" media="print">
+
+async tags on non page modifying scripts will remove blocking from them:
+<script src="analytics.js" async></script>
+
+putting the JS above the CSS will keep the css from blocking the JS
+
+Can be done:
+inline CSS
+inline JS
+async js
+media type for css

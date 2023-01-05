@@ -1,0 +1,238 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Lato', sans-serif;
+  font: normal 15px/1.5 'Lato', sans-serif;
+  color: #000;
+  padding-top:15px;
+  background: #880000;
+}
+#contact,
+#header {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  font-weight: 900;
+  color: black;
+  background: white;
+  margin-top: 1px;
+}
+#slides,
+#slides2,
+#slides3 {
+  display: none;
+  margin-bottom:50px;
+}
+a {
+  color: black;
+}
+a:link,
+a:visited {
+  color: black;
+}
+a:hover {
+  color: #880000;
+}
+#slides,
+#slides2 {
+  display: none;
+  background-color: white;
+}
+.container {
+  margin: 5px auto;
+  border-radius: 20px;
+  max-width: 33.33%;
+}
+/* For tablets & smart phones */
+@media (max-width: 767px) {
+  .container {
+    width: auto;
+  }
+  #header {
+    font-size: 4em;
+  }
+}
+/* For smartphones */
+@media (max-width: 480px) {
+  .container {
+    width: auto;
+    max-width: 66.66%;
+  }
+  #header {
+    font-size: 3em;
+  }
+}
+/* For smaller displays like laptops */
+@media (min-width: 768px) and (max-width: 979px) {
+  .container {
+    width: auto;
+  }
+  #header {
+    font-size: 4em;
+  }
+  #contact {
+    font-size: 2em;
+  }
+}
+@media (min-width: 980px) and (max-width: 1199px) {
+  .container {
+    width: auto;
+  }
+  #header {
+    font-size: 4em;
+  }
+}
+/* For larger displays */
+@media (min-width: 1200px) {
+  .container {
+    width: auto;
+  }
+  #header {
+    font-size: 4em;
+  }
+  #contact {
+    font-size:2em;
+  }
+}
+#slides,
+#slides2 {
+  color: white;
+}
+.banner {
+  background-color: white;
+  align: center;
+  opacity: 1;
+  color: black;
+}
+.title {
+  font-size: 1.5em;
+  color: black;
+  margin: 20px;
+  padding: 5px;
+}
+.description {
+  font-size: 1em;
+  padding: 2px 5px 2px 5px;
+  text-align: justify;
+}
+@media (max-width: 320px) {
+  .container {
+    width: auto;
+  }
+  #header {
+    font-size: 2em;
+  }
+}
+.hh {
+  background-color: white;
+  margin: 0 15px 0 15px;
+  padding: 10px 15px 10px 15px;
+}
+.hh a {
+  color: black;
+  margin: 5px 15px 5px 15px;
+  padding: 5px 15px 5px 15px;
+}
+.hh a:hover {
+  color: #880000;
+}
+.navh {
+  color: black;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  background-color: white;
+  width: 100%;
+}
+#under_construction {
+  text-align: center;
+  font-size: 2em;
+  background-color: white;
+  color: black;
+  border-radius: 20px;
+}
+span a{
+  color: black;
+}
+span a:hover {
+  color: #880000;
+}
+.slides {
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+}
+.sticky {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+  opacity: 0.60;
+}
+.sticky:hover {
+  opacity: 1;
+}
+.slides img {
+  max-height: 450px;
+  width: auto;
+}
+.welcome img {
+  height: auto;
+  width: 100%;
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+}
+#overlay {
+  display:none; /*hidden on pageload*/
+  position:fixed; /*this will disable it from scrolling*/
+  width:100%; /*this will give the full width*/
+  height:100%; /*this will give the full height*/
+  z-index:99; /*this will keep it above all elements in the page*/
+  left:0; /*this will align it to the left*/
+  top:0; /*this will align it to the top*/
+  background:#000; /*this will give it a black background*/
+}
+.popup {
+  display:none; /*hidden on pageload*/
+  width:auto; /*width of popup*/
+  height:90%;  /*height of popup*/
+  padding:0; /*padding for popup*/
+  position:fixed; /*this will keep it relative to the body*/
+  z-index:999; /*this will keep it above the overlay*/
+  align: center;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.popup .close { /* close link*/
+  float:right;
+  color:#000;
+  text-decoration:none;/*remove underline from the close link*/
+  display:inline;
+}
+.popup div { /*popup text*/
+  padding: 0;
+  display: inline;
+}
+#pop_img {
+  align: center;
+}
+.cover {
+  width: auto;
+  align: center;
+}
+.close {
+  background-color: #fff;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  align-self: middle;
+}
+.popup div img {
+  max-height: 100%;
+}

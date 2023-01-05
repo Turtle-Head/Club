@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <script src="http://code.jquery.com/jquery-1.9.0.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('#topznav ul li').click(function() {
+                    $('#topznav').animate({
+                        marginLeft: '+=10px'
+                    }, 400);
+                });
+            });
+
+        </script>
+    </head>
+    <body>
+        <div id="topznav">
+            <ul >
+                <li>
+                    <a href="javascript:void(0);">test1</a>
+                </li>
+
+                <li>
+                    <a href="javascript:void(0);">test2</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0);">test3</a>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

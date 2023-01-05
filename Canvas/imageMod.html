@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+</head>
+<body>
+  <div>
+    <input type="file" id="file" />
+  </div>
+  <div id="image-container">
+    <canvas id="canvas1" width="500" height="500"></canvas>
+  </div>
+
+    <script>
+    function handleFileSelect(evt) {
+      var canvasWidth = 500;
+      var canvasHeight = 500;
+      var file = evt.target.files[0];
+
+
+
+      var reader = new FileReader();
+      reader.onload = function(fileObject) {
+        var data = fileObject.target.result;
+
+        // Create an image object
+        var image = new Image();
+        image.onload = function() {
+
+          window.imageSrc = this;
+          redrawMeme(window.imageSrc, null, null);
+        }
+
+        // Set image data to background image.
+        image.src = data;
+        console.log(fileObject.target.result);
+      };
+      reader.readAsDataURL(file)
+    }
+
+        var c=document.getElementById("canvas1");
+        var ctx = c.getContext("2d");
+        var imgData = ctx.getImageData(0, 0, c.width, c.height);
+        for(var i = 0; i < imgData.data.length; i += 40){
+            imgData.data[i+0] = 0;
+            imgData.data[i+1] = 255;
+            imgData.data[i+2] = 0;
+            imgData.data[i+3] = 255;
+          }
+        ctx.putImageData(imgData,0,0);
+        for(var x = 0; x < imgData.data.length; x += 4){
+          var r=imgData.data[x+0];
+          var g=imgData.data[x+1];
+          var b=imgData.data[x+2];
+          var a=imgData.data[x+3];
+          var gray=(r+g+b)/3;
+          imgData.data[x+0]=gray;
+          imgData.data[x+1]=gray;
+          imgData.data[x+2]=gray;
+        }
+        ctx.putImageData(imgData,0,0);
+        document.getElementById('file').addEventListener('change', handleFileSelect, false);
+    </script>
+</body>
+</html>

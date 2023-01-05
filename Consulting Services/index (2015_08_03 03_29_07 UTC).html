@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>James Fehr // Consulting Services</title>
+    <link href="css/grid.css" rel="stylesheet">
+    <script src="js/service-auth.js"></script>
+    <script src="js/jQuery.js"></script>
+    <link href="http://fonts.googleapis.com/css?family=Ubuntu:700,500,400" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div id="main" class="col-j12">
+        <div id="nav" class="row">
+            <div id="spacer" class="col-j2"></div>
+            <div id="banner" class="col-j8"></div>
+            <div id="spacer" class="col-j2"></div>
+        </div>
+        <div id="header" class="col-j12"></div>
+        <div id="serve" class="row"><h2>Services</h2>
+            <div id="repair" class="col-j4"><h3>Repair</h3></div>
+            <div id="upgrade" class="col-j4"><h3>Upgrade</h3></div>
+            <div id="web-svc" class="col-j4"><h3>Online Services</h3></div>
+        </div>
+        <div id="spacer" class="col-j2"></div>
+        <div id="blog" class="col-j8"></div>
+        <div id="spacer" class="col-j2"></div>
+    </div>
+    // Scripts
+    <script type="text/javascript">
+      // Hides Elements if no content
+
+      /*if(document.getElementsByClassName('flex-item').length === 0) {
+        document.getElementById('blog').style.display = 'none';
+      }
+      if(document.getElementsByTagName('h1').length === 0) {
+        document.getElementById('header').style.display = 'none';
+      }
+      if(document.getElementsByClassName('work-entry').length === 0) {
+        document.getElementById('workExperience').style.display = 'none';
+      }
+      if(document.getElementsByClassName('project-entry').length === 0) {
+        document.getElementById('projects').style.display = 'none';
+      }
+      if(document.getElementsByClassName('education-entry').length === 0) {
+        document.getElementById('education').style.display = 'none';
+      }
+      if(document.getElementsByClassName('flex-item').length === 0) {
+        document.getElementById('lets-connect').style.display = 'none';
+    }*/
+      if(document.getElementById('blog') === null) {
+        document.getElementById('blog').style.display = 'none';
+    }
+    </script>
+</body>

@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+</head>
+<body>
+    <canvas id="c" width="500" height="500"></canvas>
+    <script>
+        var c = document.querySelector("#c");
+        var ctx = c.getContext("2d");
+
+        ctx.strokeStyle = "#33cc33";
+        //ctx.fillRect(100, 100, 100, 100);
+        ctx.strokeRect(50, 50, 100, 100);
+
+        ctx.beginPath();
+        ctx.moveTo(75, 75);
+        ctx.lineTo(125, 75);
+        ctx.lineTo(125, 125);
+        ctx.lineTo(75, 75);
+        ctx.fill();
+        //ctx.stroke();
+
+        ctx.fillStyle = "blue";
+        ctx.fill();
+
+        //meme generaiton
+
+        ctx.fillStyle = "white";
+        ctx.strokeStyle = "black"
+        ctx.font = "36px Impact";
+        ctx.textAlign = "center";
+        ctx.fillText("Canvas Memes!", c.width / 2, 40);
+
+        ctx.lineWidth = 3;
+        ctx.strokeText("Canvas Memes!", c.width/ 2, 40);
+
+        //ctx.strokeText("Hello User!", 50, 150);
+        //ctx.fillText("Hello User!", 50, 150);
+
+    </script>
+</body>
+</html>

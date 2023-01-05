@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Skel's Art Studio</title>
+    <meta name="description" content="Skel's Art Studio, fresh unique art, original paintings on canvas and more">
+    <meta name="keywords" content="art, gallery, studio, paintings, painting, canvas, paper, oil, skel's art studio, fred skelton, original, creative, order, abstract, impressionism, skelism">
+    <meta name="author" content="James Fehr">
+    <meta name="artist" content="Fred Skelton">
+    <meta name="robots" condtent="index"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSS  -->
+    <link rel="stylesheet" href="css/boot.min.css">
+    <link rel="stylesheet" href="css/styles.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
+    <!-- End CSS -->
+  </head>
+  <body>
+    <!-- Analytics script -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-73329013-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+    <div id="header" class="banner">Skel's Art Studio</div>
+    <div class="navh">
+      <div class="hh">
+        <a class="loadH" href="#">Home</a>
+        <a class="loadI" href="#">Skel's Gallery</a>
+        <a class="loadG" href="#">Guest Gallery</a>
+        <a class="loadM" href="#">Miscelaneous</a>
+        <a href="#">Contact Us: skeltonfred62@gmail.com</a>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="slides" id="slides">
+        <!-- Insert Content with jQuery -->
+      </div>
+      <div class="slides" id="slides2">
+        <!-- Insert Content with jQuery -->
+      </div>
+      <div class="slides" id="under_construction">
+        <span>If you have content you would like to submit for addition to this section please <a href="mailto:skeltonfred62@gmail.com">contact us: skeltonfred62@gmail.com</a></span>
+      </div>
+      <div class="welcome" id="welcome">
+        <img src="img/welcome.jpg" align="center">
+      </div>
+    </div>
+    <div id="overlay"></div>
+    <div class="popup" id="popup1">
+      <div><a href="#" class="close">X</a></div>
+      <div class="cover"><div>
+    </div>
+    <!-- jQuery and App script imports -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/script.min.js"></script>
+    <!-- Only show what we want to show -->
+    <script>
+      $(function() {
+        $('.slides').hide();
+        $('#welcome').show(true);
+      });
+    </script>
+  </body>
+</html>

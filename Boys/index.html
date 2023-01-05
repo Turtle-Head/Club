@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Goodbye Boys</title>
+  <meta name=viewport content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <script>
+    var cb = function() {
+      var l = document.createElement('link'); l.rel = 'stylesheet';
+      l.href = 'style/style.min.css';
+      var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+    };
+    var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+        webkitRequestAnimationFrame || msRequestAnimationFrame;
+    if (raf) raf(cb);
+    else window.addEventListener('load', cb);
+  </script>
+  <!--<script src="js/jquery-2.1.4.min.js"></script>-->
+  <h1>Scott, Tristen, Alex</h1>
+  <div class="image"><img class="Third" width="25%" src="img/jfheadshot.jpg">
+  <iframe class="Third" width="560" height="315" src="https://www.youtube.com/embed/eD6JmCWKn64" frameborder="0" allowfullscreen></iframe>
+  <img class="Thrid" width="25%" src="img/102_0970.jpg"></div>
+  <div id=message class="flex">
+    <p>I will always love you.  My thoughts are on you and with you every minute of every day and I will always be concerned about you.</p>
+    <hr>
+    <p>Mom and I have discussed our current situation and feel it is best if we are not together any more. Because of this I have decided that I need to move away to find a better job and sort out how to take care of myself.</p>
+    <hr>
+    <p>I know this is going to be another big change for you and you won't understand why I am doing this now, maybe you never will. Know that I love you but need to leave.</p>
+    <hr>
+    <p>Take care of each other. Love your Mom. If you ever have any questions for me you can email me <a href="mailto://fehr.james@gmail.com">fehr.james@gmail.com</a> or call me, Aunty Jolene will have my phone number 1(250)808-7600, so that you can get in touch with me when ever you need to.</p>
+    <h2> I love you, Dad</h2>
+  </div>
+
+  <!--<script src="js/script.min.js"></script>-->
+</body>
+</html>

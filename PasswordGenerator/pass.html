@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="James Fehr">
+  <title>Password Generator</title>
+</head>
+<body>
+  <div style="display: inline-block; flex-wrap: wrap; flex-flow: row;">
+    <input data-bind="textInput: _length" placeholder="Enter a number (1-999) (Integer)"/>
+    <div data-bind="text: pass" style="display: inline-block; flex-wrap: wrap; flex-flow: row;"></div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.0/knockout-min.js"></script>
+  <script async src="nonce.js"></script>
+</body>
+</html>
