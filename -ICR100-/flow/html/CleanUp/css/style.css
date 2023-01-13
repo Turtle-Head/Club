@@ -1,5 +1,5 @@
 style{
-    background-color:deepskyblue;
+    background-color: aliceblue;
 }
 #ldy{
     background-color:deepskyblue;
@@ -17,5 +17,9 @@ style{
     background-color:ghostwhite;
 }
 body{
-    background-color: chartreuse;
+    background-color: aliceblue;
+}
+.hd1{
+    background-color: aliceblue;
+    color:darkslateblue
 }

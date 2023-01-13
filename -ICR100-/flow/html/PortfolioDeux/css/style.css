@@ -4,7 +4,7 @@
 /* ELEMENTS */
 
 * {
-  font-family: "Fira Sans";
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #33334d;
 }
 
@@ -23,10 +23,10 @@ body {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 72px;
   font-variant: small-caps;
   font-weight: 400;
-  font-family: "Fira Sans", verdana, sans-serif;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 0;
   border: 0;
   margin: 0;
@@ -47,7 +47,7 @@ h1 {
 }
 h4 {
   font-size: 1.25em;
-  font-family: "Fira Sans", verdana, sans-serif;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   word-wrap: break-word;
   overflow-wrap: break-word;
   white-space: pre-wrap;
@@ -62,7 +62,7 @@ h4 {
 h2 {
   font-variant: small-caps;
   font-size: 24px;
-  font-family: "Fira Sans", verdana, sans-serif;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 0;
   border: 0;
   margin: 0;
@@ -76,7 +76,7 @@ h3 {
   font-variant: small-caps;
   font-size: 22px;
   align: center;
-  font-family: "Fira Sans", verdana, sans-serif;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
   padding: 0 0 0;
   line-height: 0.1;
@@ -93,6 +93,9 @@ div {
 img {
   max-width: 100%;
 }
+a{
+  color: goldenrod;
+}
 
 /* CLASSES */
 .divider {
@@ -100,7 +103,7 @@ img {
     min-height: 5px;
     background-color: #33334d;
     align-self: center;
-    font-family: "Fira Sans", verdana, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: lighter;
     font-size: 22px;
 }
@@ -111,7 +114,7 @@ img {
     align: relative 50;
     text-indent: 50;
     color: #33334d;
-    font-family: "Fira Sans", verdana, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 400;
     font-size: 22px;
 }
@@ -130,13 +133,14 @@ img {
     width: 100%;
     height: 250px;
     padding-top: 5px;
-    background-color: #33334d;
+    background-color: #08088b;
   	background-image:
-  	-webkit-linear-gradient(left, #4976C9, #33334d);
+  	-webkit-linear-gradient(left, #000000, #222268);
   	background-image:
-  	-o-linear-gradient(left, #4976C9, #33334d);
+  	-o-linear-gradient(left, #ff0303, #050574);
   	background-image:
-  	linear-gradient(to right, #4976C9, #33334d);
+  	linear-gradient(to right, #1b0303, #12125e);
+    color:aliceblue;
 }
 
 /* IDs */

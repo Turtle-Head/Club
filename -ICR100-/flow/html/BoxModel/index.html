@@ -9,27 +9,63 @@
     .red-box{
         background-color: red;
         height:100px;
-        width:100px;
-        border:5px dotted lightgreen;
+        width:159px;
+        border:2px ridge green;
         color:aliceblue;
         text-align:center;
+        box-sizing: border-box;
+        padding:20px;
+        justify-content: center;
+        margin-right:auto;
+        outline: 2px solid red;
     }
     .blue-box{
-        background-color: blue;
+        align:right;
+        background-color:blue;
         text-align:center;
         height:100px;
-        width:100px;
-        border:5px dotted darkorange;
+        width:159px;
+        border:2px dashed darkorange;
         color:aliceblue;
+        box-sizing: border-box;
+        padding:20px;
+        margin:auto;
+        outline: 2px solid blue;
     }
     .green-box{
+        align:center;
         background-color: green;
         height:100px;
-        width:100px;
-        border:5px dotted red;
+        width:159px;
+        border:2px dotted red;
         color:aliceblue;
         text-align:center;
+        border-radius: 0% 50% 0% 50%;
+        box-sizing: border-box;
+        padding:20px;
+        /* transform: rotate(-80deg); */
+        box-shadow: 20em;
+        box-shadow:10px 10px darkorange;
+        margin-left:auto;
+        outline: 2px solid green;
+        box-shadow:10px 10px black
     }
+    .purple-circ{
+        background-color: purple;
+        height:100px;
+        width:160px;
+        border:ridge 25px hotpink;
+        border-radius:50% 50% 0% 50%;
+        color:aliceblue;
+        text-align:center;
+        /* transform: rotate(90deg); */
+        align:center;
+        box-sizing: border-box;
+        padding:7px;
+        margin:auto;
+        outline: 2px solid red;
+    }
+    
 </style>
 </head>
 <body>
@@ -37,5 +73,6 @@
     <div class="red-box">red div</div>
     <div class="blue-box">blue div</div>
     <div class="green-box">green div</div>
+    <!-- <div class="purple-circ"><br>purp.div</div> -->
 </body>
 </html>
