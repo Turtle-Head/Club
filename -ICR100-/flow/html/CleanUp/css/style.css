@@ -47,21 +47,18 @@ table, th, td {
   flex-direction: column;
   background-color: aliceblue;
   height: 835px;
-  /* width: 100%; */
-  /* padding: 32px; */
   color: aliceblue;
-  /* flex-wrap: wrap; */
-
   text-transform: capitalize;
   align-items: baseline;
   justify-content: center;
 }
 .nav {
   text-align: center;
-  justify-content: center;
+  justify-content:center;
+
 }
 .company {
-  display: flex inline-block;
+  display: flex-inline-block;
   color: cornflowerblue;
   justify-content: center;
   text-align: center;
@@ -83,15 +80,126 @@ a {
     flex-direction: column;
     text-decoration: none;
     text-rendering: auto;
-    font-size:larger;
+    font-size:large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(56, 112, 216);
 }
 h1 {
-  text-emphasis: strong;
   text-transform: capitalize;
   color: rgb(0, 89, 255);
   background-color: rgba(185, 185, 255, 0.459);
   padding:15px;
   margin:0px;
+}
+.ctbox{
+  text-align: center;
+  border:5px;
+  border-color: black;
+  outline:double 5px ;
+  border-style: groove;
+  border: 3px black double green ridge black blue double lightblue lightgreen black;
+  border-radius: 15% 15% 15% 15%;
+  -webkit-border-radius: 15% 15% 15% 15%;
+  -moz-border-radius: 15% 15% 15% 15%;
+  -ms-border-radius: 15% 15% 15% 15%;
+  -o-border-radius: 15% 15% 15% 15%;
+}
+.button{
+  text-align: center;
+  justify-content:center;
+
+}
+.main{
+  outline:double 5px black;
+}
+nav {
+  font-family: monospace;
+}
+.dropbtn {
+  background-color: blue;
+  color: rgb(0, 89, 255);
+  padding: 12px;
+  font-size: medium;
+  border: none;
+  width:120px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  font-size: medium;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color:blue;}
+.rthook{
+   display:inline-flex;
+   flex-direction: row;
+   justify-content:flex-end;
+   width:80%;
+   height: auto;
+   text-align:left;
+   background-color: blue;
+}
+.lhook{
+    display:inline-flex;
+    flex-direction:row;
+    justify-content:flex-start;
+    width:100%;
+    height: auto;
+    text-align:center;
+    background-color: blue;
+    color:cornflowerblue;
+}
+.chook{
+  display:inline-block;
+  width:100%;
+  height: auto;
+  background-color: blue;
+  color:cornflowerblue;
+  position: fixed;
+  top: 0;
+}
+.cuP{
+  text-align: center;
+  padding:15px;
+}
+.lfe{
+  display:flex;
+  height: 25px;
+  width:auto;
+  padding: auto;
+
+}
+.pict{
+  display:flex;
+  height: 25px;
+  width:auto;
+  padding:5px;
+  flex-direction:row;
+  justify-content:flex-start;
+}
+.outr{
+  display:inline-block;
+  padding:75px;
 }

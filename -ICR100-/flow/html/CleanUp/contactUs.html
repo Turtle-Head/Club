@@ -1,4 +1,6 @@
-
+<!-- Author: James Fehr -->
+<!-- ContactUs for the CleanUp site -->
+<!-- Project for ICR100 -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,31 +10,54 @@
     <title>Cleanup || Contact Us</title>
     <link rel="icon" type="image/png" href="img\bukt_icn.png" />
     <link rel="stylesheet" href="css/style.css" />
-  </head>
-  <body>
-    <header>
-      <div class="nav">
-        <a href="aboutUs.html">About Us ||</a>
-        <a href="pricing.html">Pricing || </a>
-        <a href=".\index.html">Home</a>
+</head>
+<header><div class="chook">
+  <div class="lhook">
+    <div class="pict"><img class="pict" src=".\img\leaf.gif" alt="leaf" width="10px"></div>
+    <div class="cuP">CleanUp</div>
+    <div class="rthook">
+  <div class="dropdown">
+    <button class="dropbtn"><img class="lfe" src=".\img\mu.png"></button>
+    <div class="dropdown-content">
+      <a href="contactUs.html">Contact</a>
+      <a href="aboutUs.html">AboutUs</a>
+      <a href="pricing.html">Pricing</a>
+      <a href=".\index.html">Home</a>
+    </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div></header>
+    <body>
+<div class="chook">
+      <div class="lhook">
+        <div class="pict"><img class="pict" src=".\img\leaf.gif" alt="leaf" width="10px"></div>
+        <div class="cuP">CleanUp</div>
+        <div class="rthook">
+      <div class="dropdown">
+        <button class="dropbtn"><img class="lfe" src=".\img\mu.png"></button>
+        <div class="dropdown-content">
+          <a href="contactUs.html">Contact</a>
+          <a href="aboutUs.html">AboutUs</a>
+          <a href="pricing.html">Pricing</a>
+          <a href=".\index.html">Home</a>
+        </div>
       </div>
-        <h1 class="contban">
-          <img src="img\water-1761027.jpg" width="100%" alt="water_image" />
-           Contact Us</h1>
-      </header>
-    <main>
-      <div class="contban">
-        <h2>
-          <fieldset><legend>CleanUp</legend>
-          <strong>How to contact us:</strong>
-        </fieldset>
-        </h2>
+      </div>
+      </div>
+      </div>
       </div>
       <div>
-        <h2>Please enter your information</h2>
+        
+    <main class="main">
+      <div class="outr">
+      <div class="ctbox"><h1 class="ctbox">Contact Us</h1></div>
+      <div  class="company">
+        <h2>
         <form action="index.html">
           <fieldset>
-            <legend>User Data:</legend>
+            <legend>Personal information:</legend>
             <label for="fname">First Name</label>
             <input type="text" placeholder="John"><br>
             <label for="lname">Last Name</label>
@@ -43,52 +68,40 @@
             <input type="text" placeholder="someone@someplace.ca"><br>
            </fieldset>
           </form>
+        </h2>
     </div>
-      <form action="contactUs.html">
-        <fieldset><legend>Time to contact</legend>
-        <p><label for="icr">AM<input type="radio" name="icream" value="false"></input></label></p>
-        <p><label for="icr">PM<input type="radio" name="icream" value="false"></label></p>
-        </fieldset>      
-      <div>
+      <h2><form class="company" action="contactUs.html">
+        <fieldset><legend>Contact time</legend>
+        <p class="nav"><label for="icr">AM<input type="radio" name="icream" value="false"></input></label>
+        <label for="icr">PM<input type="radio" name="icream" value="false"></label></p>
+        <p><label for="dte">Date<input type="date"></label> </p>
+        </fieldset>  
+      </h2>    
+      <div  class="company"><h2>
         <form><fieldset>
           <legend>Select a Service</legend>
-          <select smphone="select" id="serv">
+          <select name="serv-select" id="serv-select">
           <optgroup label="Indoor"></optgroup>
           <option value="Laundry">Laundry</option>
           <option value="Shred Documents">Shred Documents</option>
           <option value="Sanitize Bathroom">Sanitize Bathroom</option>
           <optgroup label="Outdoor"></optgroup>
           <option value="Window Cleaning">Window Cleaning</option>
-          
           <option value="Garbage Disposal">Garbage Disposal</option>
         </optgroup>
         </select>
-        <button type="button" onclick="checkP()">Service</button></fieldset>
+        </h2></fieldset>
       </form>
-      <script>
-        function checkP() {
-          var phn = document.getElementById("serv").value;
-          alert(phn);
-        }
-      </script>
       </div>
-      <div>
-        <fieldset> <legend>Services available</legend>
-        <p><input type="checkbox" name="smp" value="Laundry"/>Laundry</p>
-        <p><input type="checkbox" name="smp" value="bath"/>Sanitize Bathroom</p>
-        <p><input type="checkbox" name="smp" value="Shred documents"/>Shred Documents</p>
-        <p><input type="checkbox" name="smp" value="Windows"/>Windows Cleaning</p>
-        <p><input type="checkbox" name="smp" value="Garbage"/>Garbage Disposal</p>
-        </fieldset>
-      </div>
-      <input type="reset" value="Reset">
+      <div class="nav">
+      <input type="submit" value="Submit">
+    </div>
   </main>
+</div>
+</div>
     <footer>
-      <div align="middle">
-        <!-- <a href="contactUs.html">Contact Us ||</a> -->
-        <a href="aboutUs.html">About Us ||</a>
-        <a href="pricing.html">Pricing || </a>
-        <a href=".\index.html">Home</a>
+      <div class="nav">
+        <h6>CleanUp  product of James Fehr</h6>
       </div>
     </footer>
     <!-- <script src="./js/script.js"></script> -->
