@@ -1,25 +1,90 @@
-style{
-    background-color: aliceblue;
+/* Author: James Fehr */
+/* CSS stylesheet for CleanUp site */
+/* targets: index, table, contactUs, pricing, AboutUs */
+/* IRC100 project */
+#ldy {
+  background-color:greenyellow;
+  color: rgb(56, 112, 216);
 }
-#ldy{
-    background-color:deepskyblue;
-}
-#wnd{
-    background-color:deepskyblue;
-}
-#ppr{
+#wnd {
     background-color:greenyellow;
+    color: rgb(56, 112, 216);
 }
-#gbg{
+#ppr {
+  background-color:greenyellow;
+  color: rgb(56, 112, 216);
+}
+#gbg {
+  background-color: greenyellow;
+  color: rgb(56, 112, 216);
+}
+#bth {
     background-color:greenyellow;
+  color: rgb(56, 112, 216);
 }
-#bth{
-    background-color:ghostwhite;
+#details{
+    background-color: aquamarine;
 }
-body{
-    background-color: aliceblue;
+body {
+  background-color: aliceblue;
+  color: rgb(56, 112, 216);
 }
-.hd1{
-    background-color: aliceblue;
-    color:darkslateblue
+.hd1 {
+  background-color: aliceblue;
+  color: rgb(56, 112, 216);
+}
+table, th, td {
+    border: 1px solid rgb(58, 144, 170);
+    border-collapse: collapse;
+  }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+  height: 835px;
+  /* width: 100%; */
+  /* padding: 32px; */
+  color: aliceblue;
+  /* flex-wrap: wrap; */
+
+  text-transform: capitalize;
+  align-items: baseline;
+  justify-content: center;
+}
+.nav {
+  text-align: center;
+  justify-content: center;
+}
+.company {
+  display: flex inline-block;
+  color: cornflowerblue;
+  justify-content: center;
+  text-align: center;
+}
+.contban {
+  justify-content: center;
+  text-align: center;
+}
+.flex-items {
+  justify-content: center;
+  flex-direction: column;
+  width: auto;
+  align-items: center;
+  text-align: center;
+}
+a {
+    justify-content:center;
+    display: flex inline-block;
+    flex-direction: column;
+    text-decoration: none;
+    text-rendering: auto;
+    font-size:larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(56, 112, 216);
+}
+h1 {
+  text-emphasis: strong;
+  text-transform: capitalize;
+  color: rgb(56, 112, 216);
 }
