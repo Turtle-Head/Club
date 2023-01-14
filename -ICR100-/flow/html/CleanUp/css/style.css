@@ -25,17 +25,21 @@
 #details{
     background-color: aquamarine;
 }
-body {
+#money{
   background-color: aliceblue;
-  color: rgb(56, 112, 216);
+}
+body {
+  background-color: rgba(185, 185, 255, 0.459);
+  color:darkgreen;
 }
 .hd1 {
-  background-color: aliceblue;
+  background-color: rgba(185, 185, 255, 0.459);
   color: rgb(56, 112, 216);
 }
 table, th, td {
     border: 1px solid rgb(58, 144, 170);
     border-collapse: collapse;
+    background-color: rgba(185, 185, 255, 0.459);
   }
 
 .container {
@@ -86,5 +90,8 @@ a {
 h1 {
   text-emphasis: strong;
   text-transform: capitalize;
-  color: rgb(56, 112, 216);
+  color: rgb(0, 89, 255);
+  background-color: rgba(185, 185, 255, 0.459);
+  padding:15px;
+  margin:0px;
 }
