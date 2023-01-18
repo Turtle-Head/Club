@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>James Fehr</title>
+    <link rel="icon" type="image/png" href=".\img\j.png"/>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  </head>
+</div>
+  <body background=".\img\bkgrd_codingAbs.jpg"> 
+    <div class="ndisp">
+    <h1 class="banner">
+      James Fehr
+      <a href="https://github.com/Turtle-Head" target="_blank"><img class="gh" src=".\img\gh.png" height="15px" width="15px" alt="Github Profile"></a>
+  </h1>
+  <div>
+      <div class="nav">
+            <a href="mailto:james.fehr@itdcanada.ca">Contact Me</a>
+            <div class="dropdown">
+            <button class="dropbtn" onhover="myFunction()">Featured Work
+              <i class="fa fa-caret-down"></i>
+            </button> <!--The dropdown list of sites -->
+            <div class="dropdown-content" id="myDropdown">
+            <a href="..\CleanUp\index.html" target="_blank">CleanUp</a>
+            <a href="..\hyperlinks\index.html" target="_blank">Hyperlinks</a>
+            <a href="..\Lists\index.html" target="_blank">Lists</a>
+            <a href="..\headings\index.html" target="_blank">Headings</a>
+            <a href="..\HTML_IMAGES\index.html" target="_blank">HTML Images</a>
+            <a href="https://turtle-head.github.io/CatClicker/" target="_blank">Cat Clicker</a>
+            <a href="https://turtle-head.github.io/Bugged/" target="_blank">Bugged</a>
+            <a href="https://turtle-head.github.io/Coding-the-little-things/" target="_blank">Coding the little things</a>
+            <a href="https://turtle-head.github.io/Portfolio/" target="_blank">v1 Portfolio</a>
+      </div> 
+</div>
+
+<!-- Javascript for dropdowns -->
+<script>
+/* When the user hovers over the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.getElementById("myDropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}
+</script> 
+<!-- End of Javascript -->
+<footer></footer>
+</body>
+</html>
