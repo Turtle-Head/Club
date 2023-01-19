@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    color:aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 1em;
+    text-justify: auto;
+}
+.modal{
+    height:50%;
+    width:50%;
+    border:2px solid black;
+    text-align: center;
+    right: 10px;
+    bottom:10px;
+}
+.box{
+    height: 50px;
+    width: 50px;
+    position: relative;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-grn{
+    background-color: green;
+}
+.bg-blu{
+    background-color: blue;
+}
+.fixd{
+    position: fixed;
+}
+#red{
+    right:50%
+}
+#grn{
+    right:40%
+}
+#blu{
+    right:70%
+}
+.flex{
+    display:flex;
+}

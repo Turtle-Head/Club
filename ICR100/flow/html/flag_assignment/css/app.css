@@ -1,0 +1,27 @@
+.container{
+   display:inline-flex;
+   flex-direction: row;
+   justify-content:flex-end;
+}
+.rtbox{
+    display: flex;
+    height: 50px;
+    background-color: red;
+    width:35px
+}
+.ctrbox{
+    display:flex;
+    image-rendering: optimizeQuality;
+    height: 50px;
+    width:50px;
+}
+.lftbox{
+    display: flex;
+    height:50px;
+    width:35px;
+    background-color: red;
+}
+#lf{
+    height:50px;
+    width:50px;
+}

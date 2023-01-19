@@ -1,0 +1,41 @@
+
+*{
+    padding:0;
+    margin: 0;
+} 
+body{
+    background-image:url("../img/blueAbs.png");
+}
+.container{
+    display: flexbox;
+    width:100%;
+    height:auto;
+}
+p{
+    color: aliceblue;
+}
+.iE{
+    display: block;
+    position:relative;
+    left:50%;
+    top:500px;
+    width:100px;
+    height:100px;
+    background-image:url("../img/leaves.png");
+    color: aliceblue;
+}
+.eV{
+    display: block;
+    position:relative;
+    align-items: center; 
+    background-color: aliceblue;
+    background:url("../img/tea.jpg");
+    width:100px;
+    height:100px;
+    left:50%;
+}
+img{
+    display: block;
+    height: 100px;
+    width: 100px;
+}

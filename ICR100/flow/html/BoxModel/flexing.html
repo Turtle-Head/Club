@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flexing</title>
+    <link rel="icon" type="image/png" href="pwicon.png" />
+    <style>
+      .box {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+      }
+      .box_2 {
+        display: inline-flex;
+        flex-direction: row-reverse;
+        flex-wrap: wrap-reverse;
+      }
+      .box_3 {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+      }
+      h1 {
+        display: block;
+        background-color: forestgreen;
+      }
+      a {
+        display: inline-block;
+        color:aliceblue;
+        background-color: cornflowerblue;
+        padding:5px;
+        margin:3%;
+        text-decoration: none;
+      }
+      .body{
+        background-color:rgb(22, 1, 1);
+        font-display: wrap-reverse;
+        color:crimson;
+      }
+      .mkhid{
+        /* visibility: hidden; */
+        /* display:none; */
+      }
+      strong{
+        color:chartreuse;
+      }
+      em{
+        color: blueviolet;
+      }
+      .box_4{
+        flex:inline-block;
+        flex-direction: column-reverse;
+      }
+      .box_3{
+        flex:inline-block;
+        flex-direction: column-reverse;
+      }
+    </style>
+  </head>
+  <body class="body">
+    <div class="box_2">
+      <div class="box_3">
+      <h1>Hello, Block</h1>
+      <div class="mkhid">
+        <div class="box_4">
+      <div><a href="#">Hello, Inline</a>
+
+      <a href="#">Hello, Inline</a>
+      <a href="#">Hello, Inline</a>
+      <a href="#">Hello, Inline</a>
+      <a href="#">Hello, Inline</a>
+    </div>
+  </div>
+      <a href="#">Hello, Inline</a>
+      <a href="#">Hello, Inline</a>
+      <a href="#">Hello, Inline</a></div>
+      <a href="#">Hello, Inline</a>
+      </div>
+      <div class="box_2">
+        </h2>
+        <div class="box_3">
+          
+          <h3>cupiditate illum cumque ipsam</h3>
+          <p><em>cupiditate illum cumque ipsam</em></p>
+          <p><strong>cupiditate illum cumque ipsam</strong></p>
+          <p>cupiditate illum cumque ipsam</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
