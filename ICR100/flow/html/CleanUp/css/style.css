@@ -1,0 +1,31 @@
+*{
+    border:0%;
+    margin:0%;
+}
+.nav{
+    display:block;
+    flex-direction: row;
+    text-align: middle;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:italic;
+}
+a{
+    text-decoration: none;
+    color:cornflowerblue;
+}
+div{
+    display:flex;
+    text-align: center;
+    flex-direction: inline;
+    item-align:"center";
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.hd1{
+    display: flex;
+    flex-direction: column;
+}

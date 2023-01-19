@@ -1,0 +1,9 @@
+﻿Proposed features CleanUp
+
+
+Menu condensed
+Icon for menu
+Show menu options for prices
+
+
+Publish gh-pages version of CleanUp after it's fixed
