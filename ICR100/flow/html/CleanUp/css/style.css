@@ -28,11 +28,11 @@ div{
     flex-direction: inline;
     item-align:"center";
 }
-h1{
-    text-align: center;
-}
-h2{
-    text-align: center;
+h1,h2,h3,h4{
+    text-align: justify;
+    padding-top: 3%;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
 }
 .hd1{
     display: flex;
@@ -54,7 +54,24 @@ tbody{
 table, th, td {
     border: 1px solid rgb(58, 144, 170);
     border-collapse: collapse;
-  }
-  .pict{
-    background:;
-  }
+}
+.list{
+    color:cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-optical-sizing: 3em;
+}
+.mroom{
+    padding-top: 5%;
+    background-color: blue;
+    padding-bottom: 5%;
+    width:100%;
+    margin:0%;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:medium;
+    text-align:justify;
+    font-optical-sizing: 3em;
+    color:darkslateblue;
+}
