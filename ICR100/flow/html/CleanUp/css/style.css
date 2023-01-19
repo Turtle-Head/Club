@@ -28,4 +28,12 @@ h2{
 .hd1{
     display: flex;
     flex-direction: column;
+    align-items: center;
+}
+.button{
+    display: flex;
+    border-width: 1px;
+    border-color:cornflowerblue;
+    fill-opacity: 50%;
+    color:black;
 }
