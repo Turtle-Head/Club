@@ -26,7 +26,7 @@ div{
     display:flex;
     text-align: center;
     flex-direction: inline;
-    item-align:"center";
+    align-items:center;
 }
 h1,h2,h3,h4{
     text-align: justify;
@@ -48,12 +48,13 @@ h1,h2,h3,h4{
 }
 tbody{
     background-color:lightblue;
-    cellpadding:"20";
-    cellspacing:"15";
+    padding:20px;
+    /* spacing:15px; */
 }   
 table, th, td {
     border: 1px solid rgb(58, 144, 170);
     border-collapse: collapse;
+    padding:20px;
 }
 .list{
     color:cornflowerblue;
