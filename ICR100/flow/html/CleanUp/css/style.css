@@ -83,3 +83,8 @@ p{
     flex-direction: column;
     align-content: center;
 }
+.ep2{
+    display:flex;
+    align-content: center;
+    flex-direction: column;
+}
