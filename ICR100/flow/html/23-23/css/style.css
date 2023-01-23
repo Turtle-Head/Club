@@ -1,0 +1,31 @@
+.mfit{
+    display:flexbox;
+    flex-direction: column;
+    border:1em navy dashed;
+}
+.contact{
+    display: flex;
+    flex-direction:column;
+}
+.inl{
+    display:flex;
+    flex-direction: row;
+}
+a{
+    text-decoration: none;
+}
+input[type="text"],input[type="email"]{
+    border: 4px solid gray;
+    font-size: medium;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+input[type="text"],input[type="email"]{
+border:4px solid hotpink;
+outline:2px dotted gray;
+}
