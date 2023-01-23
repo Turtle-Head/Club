@@ -1,31 +1,67 @@
-.mfit{
-    display:flexbox;
-    flex-direction: column;
-    border:1em navy dashed;
+.mfit {
+  display: flexbox;
+  flex-direction: column;
+  border: 1em navy dashed;
 }
-.contact{
-    display: flex;
-    flex-direction:column;
+.contact {
+  display: flex;
+  flex-direction: column;
 }
-.inl{
-    display:flex;
-    flex-direction: row;
+.inl {
+  display: flex;
+  flex-direction: row;
 }
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
-input[type="text"],input[type="email"]{
-    border: 4px solid gray;
-    font-size: medium;
-    background-color: black;
-    color: aliceblue;
-    border-radius: 3px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    -ms-border-radius: 3px;
-    -o-border-radius: 3px;
+input[type='text'],
+input[type='email'] {
+  border: 4px solid gray;
+  font-size: medium;
+  background-color: black;
+  color: aliceblue;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
 }
-input[type="text"],input[type="email"]{
-border:4px solid hotpink;
-outline:2px dotted gray;
+input[type='text'],
+input[type='email'] {
+  border: 4px solid hotpink;
+  outline: 2px dotted gray;
+}
+input[type='email']:invalid {
+  border: solid 2.5em red;
+  transform: translate(-1em);
+  -webkit-transform: translate(-1em);
+  -moz-transform: translate(-1em);
+  -ms-transform: translate(-1em);
+  -o-transform: translate(-1em);
+}
+input[type='email']:valid {
+  border: solid 0.25em green;
+}
+input[type='checkbox'] {
+  appearance: none;
+  width: 5px;
+  height: 5px;
+  border: black 1em solid;
+}
+input[type='checkbox']:checked {
+  background-color: green;
+}
+input[type='checkbox']:checked::after {
+  content: '';
+  display: block;
+  width: 10px;
+  height: 10px;
+  border-width: 0 2px 2px 0;
+  border-color: pink;
+  border-style: solid;
+  transform: translateX(6px) translateY(5px);
+  -webkit-transform: translateX(6px) translateY(5px);
+  -moz-transform: translateX(6px) translateY(5px);
+  -ms-transform: translateX(6px) translateY(5px);
+  -o-transform: translateX(6px) translateY(5px);
 }
