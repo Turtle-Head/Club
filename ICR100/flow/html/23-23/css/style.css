@@ -32,7 +32,7 @@ input[type='email'] {
   outline: 2px dotted gray;
 }
 input[type='email']:invalid {
-  border: solid 2.5em red;
+  border: solid 0.25em red;
   transform: translate(-1em);
   -webkit-transform: translate(-1em);
   -moz-transform: translate(-1em);
@@ -44,24 +44,32 @@ input[type='email']:valid {
 }
 input[type='checkbox'] {
   appearance: none;
-  width: 5px;
-  height: 5px;
-  border: black 1em solid;
+  width: 20px;
+  height: 20px;
+  border: black 1px solid;
 }
 input[type='checkbox']:checked {
   background-color: green;
-}
+  background-image: url("../img/ck.png");
+  background-size: contain;
+  /* border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+} */}
 input[type='checkbox']:checked::after {
-  content: '';
+  content:"";
   display: block;
-  width: 10px;
-  height: 10px;
-  border-width: 0 2px 2px 0;
-  border-color: pink;
+  width: 25px;
+  height: 25px;
+  content-align:center;
+  /* border-width: 0 3px 3px 0;
+  border-color: greenyellow;
   border-style: solid;
-  transform: translateX(6px) translateY(5px);
-  -webkit-transform: translateX(6px) translateY(5px);
-  -moz-transform: translateX(6px) translateY(5px);
-  -ms-transform: translateX(6px) translateY(5px);
-  -o-transform: translateX(6px) translateY(5px);
+  -webkit-transform: translateX(3px) tra5nslateY(5px);
+  -moz-transform: translateX(3px) tra5nslateY(5px);
+  -ms-transform: translateX(3px) tra5nslateY(5px);
+  -o-transform: translateX(3px) tra5nslateY(5px);
+  transform: translateX(3px) tra5nslateY(5px); */
 }
