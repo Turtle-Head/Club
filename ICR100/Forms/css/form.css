@@ -10,3 +10,7 @@
 .name{
     display:flex;
 }
+.local{
+    display: flex;
+    flex-direction:column;
+}
