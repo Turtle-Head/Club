@@ -203,3 +203,10 @@ nav {
   display:inline-block;
   padding:75px;
 }
+.hide{
+  display: none;
+}
+.price:hover + .hide {
+  display: block;
+  color: green;
+}
