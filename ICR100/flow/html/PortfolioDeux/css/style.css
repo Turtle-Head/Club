@@ -1,5 +1,5 @@
 /* Author: James Fehr */
-/* Stylesheet for ProtfolioDeux.html */
+/* Stylesheet for ProtfolioDeux */
 /* Project for ICR100 ITD */
 
 * {
@@ -126,4 +126,9 @@ body {
   color: aliceblue;
   height:10px;
   width:auto;
+}
+.pictures{
+  height: auto;
+  width:70px;
+  display: relative; 
 }

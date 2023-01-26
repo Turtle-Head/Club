@@ -10,19 +10,20 @@
 </head>
 <body>
 <script>
-    let num1=+prompt(1);
-    let num2=+prompt(9)
+    let num1=+prompt("1");
+    let num2=+prompt("9")
     let result=0;
-    for(let i = num1, i < num2,i++){
+    for (let i = num1; i < num2; i++){
         if(i%2==0){
             console.log(i);
             result=result+i;
+            alert(${i})
         }
         console.log(`the sum is `+result)
-        alert(`the sum is `+result)
+        
     }
-    
+    alert(`the sum is `+result)
 </script>
-    // <!-- <script src="./js/script.js"></script> -->
+    <!-- <script src="./js/script.js"></script> -->
 </body>
 </html>
