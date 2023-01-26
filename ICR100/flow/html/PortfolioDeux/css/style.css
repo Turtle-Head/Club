@@ -132,3 +132,10 @@ body {
   width:70px;
   display: relative; 
 }
+
+.vid{
+  display:block;
+  position: relative; 
+  padding-bottom: 47.65625%; 
+  height: 0;
+}
