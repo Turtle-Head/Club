@@ -1,10 +1,10 @@
 const myH1 = document.getElementById('my-H1')
 console.log(myH1)
 for (let i = 0; i < 7; i++) {
-  for (let j = 0; j < 17; j++) {
+  for (let j = i; j < 7; j++) {
     myH1.innerHTML += 'o'
   }
-  myH1.innerHTML += '?@|<br>'
+  myH1.innerHTML += '/<br>'
 }
 const myh2 = document.getElementById('my-h2')
 console.log(myh2)
