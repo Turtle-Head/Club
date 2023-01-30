@@ -139,3 +139,7 @@ body {
   padding-bottom: 47.65625%; 
   height: 0;
 }
+.flex-center{
+  display: flex;
+  flex-direction: row;
+}
