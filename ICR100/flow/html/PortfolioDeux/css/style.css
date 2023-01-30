@@ -119,7 +119,7 @@ body {
   height: 100%;
 }
 .ndisp {
-  height: 275px;
+  height: 175px;
 }
 .foot{
   align-self: bottom;
@@ -136,10 +136,17 @@ body {
 .vid{
   display:block;
   position: relative; 
-  padding-bottom: 47.65625%; 
+  padding-bottom: 5%;
+  padding-top: 5%;
   height: 0;
+  left: 30%;
 }
 .flex-center{
   display: flex;
   flex-direction: row;
+}
+
+#vbox{
+  display:flex;
+  flex-direction: column;
 }
