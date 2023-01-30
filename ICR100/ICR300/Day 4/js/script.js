@@ -1,3 +1,9 @@
+// TicTacToe 
+// Code forked from class demonstration by Maya Kali
+// modified to  seperate html from javascript
+// James Fehr, January 30/2023
+//================================
+
 const game_board = document.createElement("div");
       game_board.className = "game-board";
       const game_tiles = [];
