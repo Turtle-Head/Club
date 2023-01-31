@@ -137,10 +137,11 @@ body {
 .vid{
   display:block;
   position: relative; 
-  padding-bottom: 5%;
-  padding-top: 5%;
-  height: 0;
-  left: 30%;
+  padding-bottom: 2.5%;
+  padding-top: 2.5%;
+  height: 5 em;
+  left: 40%;
+  margin:1 em;
 }
 .flex-center{
   display: flex;
