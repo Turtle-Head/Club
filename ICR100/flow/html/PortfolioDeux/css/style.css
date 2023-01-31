@@ -50,6 +50,7 @@ h1 {
   color: rgb(0, 89, 255);
   background-color: rgba(185, 185, 255, 0.459);
   margin: 0px;
+  text-shadow: 2px 2px rgb(0, 221, 255);
 }
 .btn {
   text-align: center;
