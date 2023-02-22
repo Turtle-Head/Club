@@ -1,0 +1,15 @@
+h1{
+
+}
+.btn{
+    border:1px ridge black;
+    width: 75px;
+    height: 75px;
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    vertical-align: center;
+    text-align: center;
+    outline: 2px ridge blue;
+    padding: 1em;
+}
