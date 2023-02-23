@@ -32,3 +32,4 @@ C:\Users\Stark\OneDrive\Documents\GitHub\VS Projects\Basic\MyFirstWinForm\obj\De
 C:\Users\Stark\OneDrive\Documents\GitHub\VS Projects\Basic\MyFirstWinForm\obj\Debug\net6.0-windows\MyFirstWinForm.pdb
 C:\Users\Stark\OneDrive\Documents\GitHub\VS Projects\Basic\MyFirstWinForm\obj\Debug\net6.0-windows\MyFirstWinForm.genruntimeconfig.cache
 C:\Users\Stark\OneDrive\Documents\GitHub\VS Projects\Basic\MyFirstWinForm\obj\Debug\net6.0-windows\ref\MyFirstWinForm.dll
+C:\Users\Stark\OneDrive\Documents\GitHub\VS Projects\Basic\MyFirstWinForm\obj\Debug\net6.0-windows\MyFirstWinForm.Resources.resources
