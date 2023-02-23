@@ -48,6 +48,7 @@ Partial Class Form1
         ' 
         TextBox1.Location = New Point(205, 32)
         TextBox1.Name = "TextBox1"
+        TextBox1.RightToLeft = RightToLeft.Yes
         TextBox1.Size = New Size(62, 23)
         TextBox1.TabIndex = 1
         ' 
@@ -55,13 +56,17 @@ Partial Class Form1
         ' 
         TextBox2.Location = New Point(205, 70)
         TextBox2.Name = "TextBox2"
+        TextBox2.RightToLeft = RightToLeft.Yes
         TextBox2.Size = New Size(62, 23)
         TextBox2.TabIndex = 2
         ' 
         ' TextBox3
         ' 
+        TextBox3.BackColor = SystemColors.ButtonHighlight
+        TextBox3.ForeColor = SystemColors.ControlText
         TextBox3.Location = New Point(205, 143)
         TextBox3.Name = "TextBox3"
+        TextBox3.RightToLeft = RightToLeft.Yes
         TextBox3.Size = New Size(62, 23)
         TextBox3.TabIndex = 3
         ' 
@@ -130,6 +135,7 @@ Partial Class Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
+        BackgroundImage = My.Resources.Resources.grey_2715737_960_720
         ClientSize = New Size(321, 212)
         Controls.Add(Button5)
         Controls.Add(Button4)
