@@ -246,7 +246,7 @@ Partial Class Form1
         Controls.Add(bksp)
         Controls.Add(Clr)
         Name = "Form1"
-        Text = "Form1"
+        Text = "Calculator"
         ResumeLayout(False)
         PerformLayout()
     End Sub
