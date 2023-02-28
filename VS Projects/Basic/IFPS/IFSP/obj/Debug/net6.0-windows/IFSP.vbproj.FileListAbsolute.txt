@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\IFSP.vbproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\IFSP.vbproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\IFSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\IFSP.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\IFSP.AssemblyInfo.vb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\IFSP.vbproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\bin\Debug\net6.0-windows\IFSP.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\bin\Debug\net6.0-windows\IFSP.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\bin\Debug\net6.0-windows\IFSP.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\bin\Debug\net6.0-windows\IFSP.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\bin\Debug\net6.0-windows\IFSP.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\IFSP.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\IFSP.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\refint\IFSP.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\IFSP.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\IFSP.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\IFPS\IFSP\obj\Debug\net6.0-windows\ref\IFSP.dll

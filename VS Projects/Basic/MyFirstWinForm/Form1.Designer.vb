@@ -33,6 +33,7 @@ Partial Class Form1
         Button3 = New Button()
         Button4 = New Button()
         Button5 = New Button()
+        Clear_Boxes = New Button()
         SuspendLayout()
         ' 
         ' Button1
@@ -131,12 +132,22 @@ Partial Class Form1
         Button5.Text = "Modulus"
         Button5.UseVisualStyleBackColor = True
         ' 
+        ' Clear_Boxes
+        ' 
+        Clear_Boxes.Location = New Point(138, 114)
+        Clear_Boxes.Name = "Clear_Boxes"
+        Clear_Boxes.Size = New Size(129, 23)
+        Clear_Boxes.TabIndex = 13
+        Clear_Boxes.Text = "Clear"
+        Clear_Boxes.UseVisualStyleBackColor = True
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackgroundImage = My.Resources.Resources.grey_2715737_960_720
         ClientSize = New Size(321, 212)
+        Controls.Add(Clear_Boxes)
         Controls.Add(Button5)
         Controls.Add(Button4)
         Controls.Add(Button3)
@@ -166,4 +177,5 @@ Partial Class Form1
     Friend WithEvents Button3 As Button
     Friend WithEvents Button4 As Button
     Friend WithEvents Button5 As Button
+    Friend WithEvents Clear_Boxes As Button
 End Class

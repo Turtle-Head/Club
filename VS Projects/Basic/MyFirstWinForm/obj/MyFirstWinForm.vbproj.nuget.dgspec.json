@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stark\\OneDrive\\Documents\\GitHub\\VS Projects\\Basic\\MyFirstWinForm\\MyFirstWinForm.vbproj": {}
+    "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\Basic\\MyFirstWinForm\\MyFirstWinForm.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Stark\\OneDrive\\Documents\\GitHub\\VS Projects\\Basic\\MyFirstWinForm\\MyFirstWinForm.vbproj": {
+    "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\Basic\\MyFirstWinForm\\MyFirstWinForm.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stark\\OneDrive\\Documents\\GitHub\\VS Projects\\Basic\\MyFirstWinForm\\MyFirstWinForm.vbproj",
+        "projectUniqueName": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\Basic\\MyFirstWinForm\\MyFirstWinForm.vbproj",
         "projectName": "MyFirstWinForm",
-        "projectPath": "C:\\Users\\Stark\\OneDrive\\Documents\\GitHub\\VS Projects\\Basic\\MyFirstWinForm\\MyFirstWinForm.vbproj",
+        "projectPath": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\Basic\\MyFirstWinForm\\MyFirstWinForm.vbproj",
         "packagesPath": "C:\\Users\\Stark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stark\\OneDrive\\Documents\\GitHub\\VS Projects\\Basic\\MyFirstWinForm\\obj\\",
+        "outputPath": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\Basic\\MyFirstWinForm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

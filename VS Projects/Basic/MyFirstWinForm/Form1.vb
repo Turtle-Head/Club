@@ -42,4 +42,10 @@
         sum = num1 Mod num2
         TextBox3.Text = sum.ToString()
     End Sub
+
+    Private Sub Clear_Boxes_Click(sender As Object, e As EventArgs) Handles Clear_Boxes.Click
+        TextBox1.Clear()
+        TextBox2.Clear()
+        TextBox3.Clear()
+    End Sub
 End Class

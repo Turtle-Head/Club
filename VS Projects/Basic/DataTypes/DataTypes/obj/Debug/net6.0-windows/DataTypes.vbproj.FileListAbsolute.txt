@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\DataTypes.vbproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\DataTypes.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\DataTypes.vbproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\DataTypes.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\DataTypes.AssemblyInfo.vb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\DataTypes.vbproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\bin\Debug\net6.0-windows\DataTypes.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\bin\Debug\net6.0-windows\DataTypes.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\bin\Debug\net6.0-windows\DataTypes.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\bin\Debug\net6.0-windows\DataTypes.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\bin\Debug\net6.0-windows\DataTypes.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\DataTypes.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\refint\DataTypes.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\DataTypes.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\DataTypes.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\DataTypes\DataTypes\obj\Debug\net6.0-windows\ref\DataTypes.dll
