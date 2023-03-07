@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\WRandy.vbproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\WRandy.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\WRandy.vbproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\WRandy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\WRandy.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\WRandy.AssemblyInfo.vb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\WRandy.vbproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\bin\Debug\net6.0-windows\WRandy.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\bin\Debug\net6.0-windows\WRandy.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\bin\Debug\net6.0-windows\WRandy.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\bin\Debug\net6.0-windows\WRandy.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\bin\Debug\net6.0-windows\WRandy.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\WRandy.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\refint\WRandy.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\WRandy.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\WRandy.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\WRandy\WRandy\obj\Debug\net6.0-windows\ref\WRandy.dll

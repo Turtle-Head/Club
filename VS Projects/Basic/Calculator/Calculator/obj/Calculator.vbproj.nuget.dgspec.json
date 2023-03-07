@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stark\\OneDrive\\Documents\\GitHub\\VS Projects\\Basic\\Calculator\\Calculator\\Calculator.vbproj": {}
+    "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\Basic\\Calculator\\Calculator\\Calculator.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Stark\\OneDrive\\Documents\\GitHub\\VS Projects\\Basic\\Calculator\\Calculator\\Calculator.vbproj": {
+    "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\Basic\\Calculator\\Calculator\\Calculator.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stark\\OneDrive\\Documents\\GitHub\\VS Projects\\Basic\\Calculator\\Calculator\\Calculator.vbproj",
+        "projectUniqueName": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\Basic\\Calculator\\Calculator\\Calculator.vbproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Stark\\OneDrive\\Documents\\GitHub\\VS Projects\\Basic\\Calculator\\Calculator\\Calculator.vbproj",
+        "projectPath": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\Basic\\Calculator\\Calculator\\Calculator.vbproj",
         "packagesPath": "C:\\Users\\Stark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stark\\OneDrive\\Documents\\GitHub\\VS Projects\\Basic\\Calculator\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\Basic\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

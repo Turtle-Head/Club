@@ -40,13 +40,13 @@ Partial Class Form1
         Button14 = New Button()
         Button15 = New Button()
         Button16 = New Button()
-        resultbox = New TextBox()
+        resultbox = New RichTextBox()
         SuspendLayout()
         ' 
         ' Clr
         ' 
         Clr.BackColor = Color.Red
-        Clr.Location = New Point(250, 41)
+        Clr.Location = New Point(7, 12)
         Clr.Name = "Clr"
         Clr.Size = New Size(75, 43)
         Clr.TabIndex = 1
@@ -56,7 +56,7 @@ Partial Class Form1
         ' bksp
         ' 
         bksp.BackColor = Color.Red
-        bksp.Location = New Point(169, 41)
+        bksp.Location = New Point(7, 50)
         bksp.Name = "bksp"
         bksp.Size = New Size(75, 47)
         bksp.TabIndex = 2
@@ -215,11 +215,16 @@ Partial Class Form1
         ' 
         ' resultbox
         ' 
-        resultbox.Location = New Point(12, 12)
+        resultbox.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom Or AnchorStyles.Left Or AnchorStyles.Right
+        resultbox.BackColor = Color.AliceBlue
+        resultbox.Font = New Font("Stencil", 22F, FontStyle.Regular, GraphicsUnit.Point)
+        resultbox.Location = New Point(88, 12)
         resultbox.Name = "resultbox"
-        resultbox.Size = New Size(318, 23)
-        resultbox.TabIndex = 19
-        ' 
+        resultbox.RightToLeft = RightToLeft.Yes
+        resultbox.ScrollBars = RichTextBoxScrollBars.None
+        resultbox.Size = New Size(237, 77)
+        resultbox.TabIndex = 20
+        resultbox.Text = ""' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -248,7 +253,6 @@ Partial Class Form1
         Name = "Form1"
         Text = "Calculator"
         ResumeLayout(False)
-        PerformLayout()
     End Sub
     Friend WithEvents Clr As Button
     Friend WithEvents bksp As Button
@@ -268,5 +272,5 @@ Partial Class Form1
     Friend WithEvents Button14 As Button
     Friend WithEvents Button15 As Button
     Friend WithEvents Button16 As Button
-    Friend WithEvents resultbox As TextBox
+    Friend WithEvents resultbox As RichTextBox
 End Class
