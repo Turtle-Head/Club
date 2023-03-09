@@ -1,0 +1,15 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\obj\Debug\net6.0\Csharp1.csproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\obj\Debug\net6.0\Csharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\obj\Debug\net6.0\Csharp1.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\obj\Debug\net6.0\Csharp1.AssemblyInfo.cs
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\obj\Debug\net6.0\Csharp1.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\bin\Debug\net6.0\Csharp1.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\bin\Debug\net6.0\Csharp1.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\bin\Debug\net6.0\Csharp1.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\bin\Debug\net6.0\Csharp1.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\bin\Debug\net6.0\Csharp1.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\obj\Debug\net6.0\Csharp1.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\obj\Debug\net6.0\refint\Csharp1.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\obj\Debug\net6.0\Csharp1.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\obj\Debug\net6.0\Csharp1.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Csharp1\obj\Debug\net6.0\ref\Csharp1.dll
