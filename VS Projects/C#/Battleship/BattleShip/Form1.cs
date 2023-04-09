@@ -221,6 +221,13 @@ namespace BattleShip
             return (false);
         }
 
+        private void playerShipHit(int xAttack, int yAttack)
+        {
+            player[xAttack, yAttack].ImageLocation = @"..\net6.0-windows\hit.png";
+            comHitCount++;
+            MessageBox.Show("Computer sunk my Battleship!");
+            WinCheck();
+        }
         private void ComputerTurn()
         {
             Random rand = new Random();
@@ -229,17 +236,13 @@ namespace BattleShip
             MessageBox.Show("Computer Attacks " + xAttack.ToString());
             if (player[xAttack, yAttack].ImageLocation == @"..\net6.0-windows\boat.png")
             {
-                player[xAttack, yAttack].ImageLocation = @"..\net6.0-windows\hit.png";
-                comHitCount++;
-                MessageBox.Show("Computer sunk my Battleship!");
-                WinCheck();
+                playerShipHit(xAttack, yAttack);
+
+                
             }
             else if (player[xAttack, yAttack].ImageLocation == @"..\net6.0-windows\boat2.png")
             {
-                player[xAttack, yAttack].ImageLocation = @"..\net6.0-windows\hit.png";
-                comHitCount++;
-                MessageBox.Show("Computer sunk my Battleship!");
-                WinCheck();
+                playerShipHit(xAttack, yAttack);
             }
             else if
                 (player[xAttack, yAttack].ImageLocation == @"..\net6.0-windows\water.jpg")

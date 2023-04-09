@@ -46,7 +46,7 @@ namespace HashsetTesting
             void DisplaySet(HashSet<int> set)
             {
                 foreach (int i in set)
-                    output.Text += ($"{set}", i);
+                    output.Text += ($"{0}", i);
 
             }
 
