@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\bin\Debug\net6.0-windows\ExS31.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\bin\Debug\net6.0-windows\ExS31.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\bin\Debug\net6.0-windows\ExS31.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\bin\Debug\net6.0-windows\ExS31.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\bin\Debug\net6.0-windows\ExS31.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\ExS31.csproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\ExS31.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\ExS31.csproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\ExS31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\ExS31.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\ExS31.AssemblyInfo.cs
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\ExS31.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\ExS31.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\refint\ExS31.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\ExS31.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\ExS31.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\ExS31\ExS31\obj\Debug\net6.0-windows\ref\ExS31.dll

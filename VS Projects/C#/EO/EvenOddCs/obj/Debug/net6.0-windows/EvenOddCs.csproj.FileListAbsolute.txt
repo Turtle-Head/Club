@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\EvenOddCs.csproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\EvenOddCs.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\EvenOddCs.csproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\EvenOddCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\EvenOddCs.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\EvenOddCs.AssemblyInfo.cs
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\EvenOddCs.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\bin\Debug\net6.0-windows\EvenOddCs.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\bin\Debug\net6.0-windows\EvenOddCs.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\bin\Debug\net6.0-windows\EvenOddCs.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\bin\Debug\net6.0-windows\EvenOddCs.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\bin\Debug\net6.0-windows\EvenOddCs.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\EvenOddCs.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\refint\EvenOddCs.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\EvenOddCs.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\EvenOddCs.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\EO\EvenOddCs\obj\Debug\net6.0-windows\ref\EvenOddCs.dll

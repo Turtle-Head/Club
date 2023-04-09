@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\Rtype.vbproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\Rtype.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\Rtype.vbproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\Rtype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\Rtype.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\Rtype.AssemblyInfo.vb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\Rtype.vbproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\bin\Debug\net6.0-windows\Rtype.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\bin\Debug\net6.0-windows\Rtype.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\bin\Debug\net6.0-windows\Rtype.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\bin\Debug\net6.0-windows\Rtype.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\bin\Debug\net6.0-windows\Rtype.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\Rtype.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\refint\Rtype.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\Rtype.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\Rtype.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Rtype\Rtype\obj\Debug\net6.0-windows\ref\Rtype.dll

@@ -1,0 +1,7 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\obj\Debug\net6.0-windows\28ICWork.vbproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\obj\Debug\net6.0-windows\_28ICWork.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\obj\Debug\net6.0-windows\28ICWork.vbproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\obj\Debug\net6.0-windows\28ICWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\obj\Debug\net6.0-windows\28ICWork.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\obj\Debug\net6.0-windows\28ICWork.AssemblyInfo.vb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\obj\Debug\net6.0-windows\28ICWork.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\FBrework.csproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\FBrework.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\FBrework.csproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\FBrework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\FBrework.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\FBrework.AssemblyInfo.cs
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\FBrework.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\bin\Debug\net6.0-windows\FBrework.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\bin\Debug\net6.0-windows\FBrework.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\bin\Debug\net6.0-windows\FBrework.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\bin\Debug\net6.0-windows\FBrework.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\bin\Debug\net6.0-windows\FBrework.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\FBrework.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\refint\FBrework.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\FBrework.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\FBrework.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\FBrework\FBrework\obj\Debug\net6.0-windows\ref\FBrework.dll

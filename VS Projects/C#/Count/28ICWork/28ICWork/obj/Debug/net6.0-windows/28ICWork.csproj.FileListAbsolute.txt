@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\bin\Debug\net6.0-windows\28ICWork.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\bin\Debug\net6.0-windows\28ICWork.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\bin\Debug\net6.0-windows\28ICWork.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\bin\Debug\net6.0-windows\28ICWork.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\bin\Debug\net6.0-windows\28ICWork.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\28ICWork.csproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\_28ICWork.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\28ICWork.csproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\28ICWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\28ICWork.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\28ICWork.AssemblyInfo.cs
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\28ICWork.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\28ICWork.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\refint\28ICWork.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\28ICWork.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\28ICWork.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Count\28ICWork\28ICWork\obj\Debug\net6.0-windows\ref\28ICWork.dll

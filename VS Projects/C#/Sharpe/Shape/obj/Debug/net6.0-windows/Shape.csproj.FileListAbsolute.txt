@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\Shape.csproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\Shape.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\Shape.csproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\Shape.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\Shape.AssemblyInfo.cs
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\Shape.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\bin\Debug\net6.0-windows\Shape.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\bin\Debug\net6.0-windows\Shape.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\bin\Debug\net6.0-windows\Shape.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\bin\Debug\net6.0-windows\Shape.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\bin\Debug\net6.0-windows\Shape.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\Shape.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\refint\Shape.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\Shape.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\Shape.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Sharpe\Shape\obj\Debug\net6.0-windows\ref\Shape.dll

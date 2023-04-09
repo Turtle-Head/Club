@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\bin\Debug\net6.0-windows\HashsetTesting.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\bin\Debug\net6.0-windows\HashsetTesting.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\bin\Debug\net6.0-windows\HashsetTesting.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\bin\Debug\net6.0-windows\HashsetTesting.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\bin\Debug\net6.0-windows\HashsetTesting.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\HashsetTesting.csproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\HashsetTesting.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\HashsetTesting.csproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\HashsetTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\HashsetTesting.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\HashsetTesting.AssemblyInfo.cs
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\HashsetTesting.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\HashsetTesting.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\refint\HashsetTesting.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\HashsetTesting.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\HashsetTesting.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Battleship\HTest\HashsetTesting\obj\Debug\net6.0-windows\ref\HashsetTesting.dll

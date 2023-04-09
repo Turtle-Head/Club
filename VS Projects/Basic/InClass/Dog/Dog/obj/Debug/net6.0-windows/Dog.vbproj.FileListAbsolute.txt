@@ -1,0 +1,7 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Dog\Dog\obj\Debug\net6.0-windows\Dog.vbproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Dog\Dog\obj\Debug\net6.0-windows\Dog.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Dog\Dog\obj\Debug\net6.0-windows\Dog.vbproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Dog\Dog\obj\Debug\net6.0-windows\Dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Dog\Dog\obj\Debug\net6.0-windows\Dog.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Dog\Dog\obj\Debug\net6.0-windows\Dog.AssemblyInfo.vb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Dog\Dog\obj\Debug\net6.0-windows\Dog.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\bin\Debug\net6.0-windows\MiniATM.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\bin\Debug\net6.0-windows\MiniATM.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\bin\Debug\net6.0-windows\MiniATM.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\bin\Debug\net6.0-windows\MiniATM.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\bin\Debug\net6.0-windows\MiniATM.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\MiniATM.csproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\MiniATM.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\MiniATM.csproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\MiniATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\MiniATM.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\MiniATM.AssemblyInfo.cs
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\MiniATM.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\MiniATM.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\refint\MiniATM.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\MiniATM.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\MiniATM.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\MiniATM\MiniATM\obj\Debug\net6.0-windows\ref\MiniATM.dll

@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\bin\Debug\net6.0-windows\CatOmine.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\bin\Debug\net6.0-windows\CatOmine.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\bin\Debug\net6.0-windows\CatOmine.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\bin\Debug\net6.0-windows\CatOmine.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\bin\Debug\net6.0-windows\CatOmine.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\CatOmine.csproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\CatOmine.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\CatOmine.csproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\CatOmine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\CatOmine.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\CatOmine.AssemblyInfo.cs
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\CatOmine.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\CatOmine.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\refint\CatOmine.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\CatOmine.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\CatOmine.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\CatOmine\CatOmine\obj\Debug\net6.0-windows\ref\CatOmine.dll

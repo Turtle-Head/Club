@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\bin\Debug\net6.0-windows\Prepatut.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\bin\Debug\net6.0-windows\Prepatut.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\bin\Debug\net6.0-windows\Prepatut.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\bin\Debug\net6.0-windows\Prepatut.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\bin\Debug\net6.0-windows\Prepatut.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\Prepatut.vbproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\Prepatut.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\Prepatut.vbproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\Prepatut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\Prepatut.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\Prepatut.AssemblyInfo.vb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\Prepatut.vbproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\Prepatut.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\refint\Prepatut.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\Prepatut.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\Prepatut.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\InClass\Prepatut\Prepatut\obj\Debug\net6.0-windows\ref\Prepatut.dll

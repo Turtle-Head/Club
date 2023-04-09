@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\bin\Debug\net6.0-windows\PatWiT.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\bin\Debug\net6.0-windows\PatWiT.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\bin\Debug\net6.0-windows\PatWiT.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\bin\Debug\net6.0-windows\PatWiT.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\bin\Debug\net6.0-windows\PatWiT.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\PatWiT.csproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\PatWiT.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\PatWiT.csproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\PatWiT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\PatWiT.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\PatWiT.AssemblyInfo.cs
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\PatWiT.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\PatWiT.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\refint\PatWiT.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\PatWiT.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\PatWiT.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\PaWiT\PatWiT\obj\Debug\net6.0-windows\ref\PatWiT.dll

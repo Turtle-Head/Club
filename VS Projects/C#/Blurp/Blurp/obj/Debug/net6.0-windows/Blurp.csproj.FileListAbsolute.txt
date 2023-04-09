@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\bin\Debug\net6.0-windows\Blurp.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\bin\Debug\net6.0-windows\Blurp.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\bin\Debug\net6.0-windows\Blurp.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\bin\Debug\net6.0-windows\Blurp.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\bin\Debug\net6.0-windows\Blurp.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\Blurp.csproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\Blurp.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\Blurp.csproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\Blurp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\Blurp.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\Blurp.AssemblyInfo.cs
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\Blurp.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\Blurp.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\refint\Blurp.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\Blurp.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\Blurp.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\C#\Blurp\Blurp\obj\Debug\net6.0-windows\ref\Blurp.dll

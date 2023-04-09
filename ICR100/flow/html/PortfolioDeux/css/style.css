@@ -1,5 +1,5 @@
 /* Author: James Fehr */
-/* Stylesheet for ProtfolioDeux */
+/* Stylesheet for PortfolioDeux */
 /* Project for ICR100 ITD */
 
 * {
@@ -8,8 +8,24 @@
 }
 
 body {
+  width:100%;
+  background-size:stretch;
   background-color: rgba(185, 185, 255, 0.459);
   color: aliceblue;
+}
+#email{
+  height: 15px;
+  width:auto;
+  display: flex;
+  position:relative;
+  flex-direction: row;
+  left: 5%;
+}
+#bkbtn{
+  height: 50px;
+  width:auto;
+  display: flex;
+  position:relative;
 }
 
 .container {
@@ -20,6 +36,18 @@ body {
   align-items: baseline;
   justify-content: center;
 }
+.sk_basket{
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  height:fit-content;
+  text-justify: center ;
+  text-align: left;
+  text-transform: capitalize;
+  margin-left: 10%;
+  position: relative;
+  color:lime;
+}
 .nav {
   text-align: center;
   justify-content: center;
@@ -28,6 +56,7 @@ body {
   position: relative;
   background-color: aliceblue;
 }
+
 .flex-items {
   justify-content: center;
   flex-direction: column;
@@ -48,9 +77,14 @@ a {
 h1 {
   text-transform: capitalize;
   color: rgb(0, 89, 255);
-  background-color: rgba(185, 185, 255, 0.459);
+  background-color:aliceblue;
   margin: 0px;
   text-shadow: 1px 1px rgb(0, 221, 255);
+}
+h2 {
+text-align: center;
+color:darkslategray;
+background-color:aliceblue;
 }
 .btn {
   text-align: center;
@@ -137,7 +171,7 @@ h1 {
   background-image: -o-linear-gradient(left, #1806a2, aliceblue);
   background-image: linear-gradient(to right, aliceblue, #3a1a7a);
   text-align: center;
-  text-size: larger;
+  font-size: larger;
   font-size: 5em;
   font-family: monospace;
 }
@@ -168,7 +202,7 @@ body {
 .vid {
   display: block;
   position:relative;
-  flex-direction: row;
+  flex-direction: relative;
   padding-bottom: 2.5%;
   padding-top: 2.5%;
   height: 6 em;
@@ -177,13 +211,13 @@ body {
 }
 .flex-center {
   display:flex;
-  flex-direction: row;
+  flex-direction: relative;
 }
 
 #vbox {
   display:flex;
   position:absolute;
-  flex-direction: row;
+  flex-direction: column;
   bottom: 15px;
   left: 15%;
 }
@@ -192,4 +226,37 @@ body {
 display: flex;
 position: absolute;
 flex-direction: relative;
+}
+#Send {
+  display:flex;
+  position: relative;
+  bottom: 25%;
+  left: 15%;
+}
+#bk {
+  display: flex;
+  position:relative;
+  bottom: 30%;
+  left: 49%;
+}
+.button {
+  height: 15px;
+  width: auto;
+  display: flex;
+  position:relative;
+  flex-direction: row;
+  left: 5%;
+}
+.hDiv:hover + .hide {
+  display: block;
+  color: cyan;
+  margin-left: 15%;
+  right: inherit;
+  bottom: 25%;
+}
+#hide{
+  display: none;
+}
+.hide {
+  display: none;
 }
