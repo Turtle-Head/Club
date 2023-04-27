@@ -5,7 +5,10 @@
 }
 
 <h1>Edit</h1>
-
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+}
 <h4>ClubMembers</h4>
 <hr />
 <div class="row">
