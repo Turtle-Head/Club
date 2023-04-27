@@ -4,7 +4,14 @@ using Microsoft.CodeAnalysis.Elfie.Diagnostics;
 using Microsoft.Data.SqlClient;
 namespace Club.Controllers
 {
-
+    /// <Author> ---------------->
+    /// James Fehr
+    /// <Project>
+    /// Club 
+    /// <details>
+    /// Class project making a Club Member List with Create, Edit and Delete functionality
+    /// connected to Local SQL DB
+    /// --------------------->
     public class ClubController : Controller
     {
         List<ClubMembers> list = new List<ClubMembers>();
