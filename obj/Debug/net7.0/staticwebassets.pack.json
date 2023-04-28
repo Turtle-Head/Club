@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\ASP\\Club\\Repo\\wwwroot\\img\\abstract.jpg",
+      "PackagePath": "staticwebassets\\img\\abstract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\ASP\\Club\\Repo\\wwwroot\\img\\bokeh.jpg",
+      "PackagePath": "staticwebassets\\img\\bokeh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\ASP\\Club\\Repo\\wwwroot\\img\\cubes.jpg",
+      "PackagePath": "staticwebassets\\img\\cubes.jpg"
+    },
+    {
       "Id": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\ASP\\Club\\Repo\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
