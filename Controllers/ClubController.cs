@@ -4,14 +4,7 @@ using Microsoft.CodeAnalysis.Elfie.Diagnostics;
 using Microsoft.Data.SqlClient;
 namespace Club.Controllers
 {
-    /// <Author> ---------------->
-    /// James Fehr
-    /// <Project>
-    /// Club 
-    /// <details>
-    /// Class project making a Club Member List with Create, Edit and Delete functionality
-    /// connected to Local SQL DB
-    /// --------------------->
+
     public class ClubController : Controller
     {
         List<ClubMembers> list = new List<ClubMembers>();
@@ -126,7 +119,7 @@ namespace Club.Controllers
                 }
                 
             }
-            catch (Exception ex)
+            catch (SqlException ex)
             {   // check for errors and send message if there is one
                 ViewBag.ErrorMessage = "An error occured: " + ex.Message;
                 Console.WriteLine($"{ex.Data}");

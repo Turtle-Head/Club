@@ -10615,11 +10615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\ASP\\Club\\Repo\\Club.csproj",
+      "projectUniqueName": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\ASP\\Club\\Club\\Club.csproj",
       "projectName": "Club",
-      "projectPath": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\ASP\\Club\\Repo\\Club.csproj",
+      "projectPath": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\ASP\\Club\\Club\\Club.csproj",
       "packagesPath": "C:\\Users\\Stark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\ASP\\Club\\Repo\\obj\\",
+      "outputPath": "C:\\Users\\Stark\\Documents\\Documents\\GitHub\\VS Projects\\ASP\\Club\\Club\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10635,6 +10635,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10687,7 +10688,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
