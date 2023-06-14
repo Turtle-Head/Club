@@ -1,6 +1,5 @@
 html {
-    font-size: 14px;
-    color: aliceblue;
+  font-size: 14px;
 }
 
 @media (min-width: 768px) {
@@ -14,13 +13,10 @@ html {
 }
 
 html {
-    position: relative;
-    min-height: 100%;
-    color: aliceblue!important;
+  position: relative;
+  min-height: 100%;
 }
 
 body {
-    margin-bottom: 60px;
-    background-image: url(/img/cubes.jpg);
-    background-size: cover;
+  margin-bottom: 60px;
 }
